@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @koenschool
+- 👋 Hi, I’m koen
 - 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and SQL.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and SQL, at Het Techniek College Rotterdam.
 - 📫 How to reach me: 9023005@student.zadkine.nl
 
 <!---
