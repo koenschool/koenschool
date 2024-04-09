@@ -1,7 +1,20 @@
-- 👋 Hi, I’m koen
-- 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and SQL, at Het Techniek College Rotterdam.
-- 📫 How to reach me: 9023005@student.zadkine.nl
+## Hi, I’m koen,
+
+I am a student software developer at Het Techniek College Rotterdam.
+Coding is something I always was intrested in.
+I started using scratch at the age of 13 and currently I am studing HTML, CSS, JavaScript, PHP and SQL.
+In my spare time I like to play games with my friends, code an do balisong flipping.
+
+
+You can reach my throught my school email:9023005@student.zadkine.nl
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <!---
 koenschool/koenschool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
