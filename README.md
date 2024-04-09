@@ -8,14 +8,6 @@ In my spare time I like to play games with my friends, code an do balisong flipp
 
 You can reach my throught my school email:9023005@student.zadkine.nl
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 <!---
 koenschool/koenschool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
