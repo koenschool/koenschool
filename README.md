@@ -1,6 +1,6 @@
 ## Hi, I’m koen,
 
-I am a student software developer at Het Techniek College Rotterdam.
+I am a student software developer at Het Techniek College Rotterdam in the Netherlands 🇳🇱.
 
 Coding is something I always was intrested in.
 I started using scratch at the age of 13 and currently I am studying HTML, CSS, JavaScript, PHP and SQL.
